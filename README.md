@@ -5,7 +5,7 @@ This CNN was constructed as part of the curriculum of Udacity's Deep Learning Na
 
 If a dog, the CNN will include a best guess of the dog's breed.  If a face, it will include the dog breed most similar to the face.  If something else, an error message will be displayed.  
 
-Instructions and further details of the project are included below.  
+Instructions and further details of the project are included below.  The fully functional model is saved as a jupyter notebook in this repo as dog_app-Xception.ipynb.
 
 
 
